@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '…/Topics/Comparable/Implement comparing by additional fields/src/Main.java [Blockchain.Topics-Comparable-Implement_comparing_by_additional_fields.main]'" />
+    <option name="defaultScopeName" value="File '…/Topics/Comparable/Implement comparing by additional fields/src/Main.java [Blockchain.Topics-Comparable-Implement_comparing_by_additional_fields.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/Topics/Comparable/Implement comparing by additional fields/src/Main.java [Blockchain.Topics-Comparable-Implement_comparing_by_additional_fields.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
