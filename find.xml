@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
+    <option name="defaultScopeName" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
