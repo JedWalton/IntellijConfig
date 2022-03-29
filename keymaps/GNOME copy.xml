@@ -50,6 +50,9 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="Kotlin.RunScratch" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="alt l" />
