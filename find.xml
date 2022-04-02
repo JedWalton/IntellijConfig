@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
-    <option name="defaultScopeName" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
-    <option name="SEARCH_SCOPE" value="File '…/Blockchain/task/src/blockchain/Blockchain.java [Blockchain.Blockchain-task.main]'" />
+    <option name="customScope" value="Project 'Pragmatic_Chess'" />
+    <option name="defaultScopeName" value="Project 'Pragmatic_Chess'" />
+    <option name="SEARCH_SCOPE" value="Project 'Pragmatic_Chess'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
