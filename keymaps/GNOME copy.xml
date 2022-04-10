@@ -71,6 +71,15 @@
   </action>
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.UpdateProject" />
 </keymap>
