@@ -6,6 +6,10 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
@@ -74,6 +78,12 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SmartSelect" />
+  <action id="SwitcherBackward">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="SwitcherForward">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="TableResult.GrowSelection" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
