@@ -21,7 +21,6 @@
                   <option value="com.intellij.modules.lang" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -35,15 +34,12 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.edu">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.notime.intellijPlugin.backgroundImagePlus">
@@ -141,6 +137,18 @@
                 </set>
               </option>
               <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.rust.lang">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.toml.lang" />
+                </set>
+              </option>
             </PluginData>
           </value>
         </entry>
