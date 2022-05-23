@@ -63,6 +63,7 @@
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
   <action id="Kotlin.RunScratch" />
+  <action id="Move" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
@@ -77,6 +78,10 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f6" />
   </action>
   <action id="RenameFile">
     <keyboard-shortcut first-keystroke="alt g" />
