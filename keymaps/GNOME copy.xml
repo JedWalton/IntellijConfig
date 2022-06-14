@@ -83,10 +83,6 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="alt l" />
-  </action>
   <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -107,6 +103,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SmartSelect" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="SwitcherBackward">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
