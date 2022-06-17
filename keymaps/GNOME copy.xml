@@ -113,6 +113,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
