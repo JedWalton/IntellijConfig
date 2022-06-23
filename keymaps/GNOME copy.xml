@@ -89,6 +89,11 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Kotlin.RunScratch" />
   <action id="Move" />
   <action id="NewClass">
