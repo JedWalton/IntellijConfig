@@ -1,7 +1,23 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="CIDR.Debugger.CopyAddress" />
+  <action id="CIDR.Lang.Cpp.NewClass">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CPP.NewCppFile">
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f9" />
@@ -10,17 +26,29 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="shift f9" />
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt i" />
@@ -61,18 +89,35 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Kotlin.RunScratch" />
+  <action id="Move" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <keyboard-shortcut first-keystroke="alt l" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="ParameterInfo" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -82,6 +127,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="SmartSelect" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="SwitcherBackward">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -89,15 +137,25 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
