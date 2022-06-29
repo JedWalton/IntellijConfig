@@ -4,8 +4,9 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="masters programme,|It is my belief in through a rigorous masters programme, I will stretch to new heights further enthusing my passion for technology and science." />
             <option value="practices|I continue this consistent, deliberate practice to develop increasingly deep understanding of Java and other programming languages, technologies, paradigms, concepts and tools alongside rigorous software engineering best practices." />
+            <option value="masters programme,|It is my belief in through a rigorous masters programme, I will stretch to new heights further enthusing my passion for technology and science." />
+            <option value="of the intersection of|I seek with fervour to forge the mind of someone capable of operating on the bleeding edge of the intersection of Machine Learning, Data Science and Software Engineering to build burning desire to forge new and innovative technology." />
           </set>
         </option>
       </SuppressingContext>
