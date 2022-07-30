@@ -7,10 +7,6 @@
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
