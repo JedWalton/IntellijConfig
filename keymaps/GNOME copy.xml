@@ -1,36 +1,55 @@
 <keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="CIDR.Debugger.CopyAddress" />
   <action id="CIDR.Lang.Cpp.NewClass">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CPP.NewCppFile">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
-  <action id="CPP.NewHeaderFile">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f9" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl alt w" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="Debug">
-    <keyboard-shortcut first-keystroke="shift f9" />
-    <keyboard-shortcut first-keystroke="alt n" />
+  <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="DatabaseView.DataSourceCopyAction">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="alt i" />
@@ -62,6 +81,10 @@
   <action id="GoToTab9">
     <keyboard-shortcut first-keystroke="ctrl 9" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
@@ -71,6 +94,15 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
   <action id="Kotlin.RunScratch" />
   <action id="Move" />
   <action id="NewClass">
@@ -88,6 +120,15 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="ProblemsView.CopyProblemDescription">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="QuickDocCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="f6" />
@@ -113,6 +154,14 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="TableResult.GrowSelection" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.CopySelectedText">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -122,5 +171,12 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="XDebugger.CopyValue">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
