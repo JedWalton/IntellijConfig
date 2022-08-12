@@ -5,12 +5,15 @@
         <option name="suppressed">
           <set>
             <option value="practices|I continue this consistent, deliberate practice to develop increasingly deep understanding of Java and other programming languages, technologies, paradigms, concepts and tools alongside rigorous software engineering best practices." />
-            <option value="of the intersection of|I seek with fervour to forge the mind of someone capable of operating on the bleeding edge of the intersection of Machine Learning, Data Science and Software Engineering to build burning desire to forge new and innovative technology." />
-            <option value="masters programme,|It is my belief in through a rigorous masters programme, I will stretch to new heights further enthusing my passion for technology and science." />
             <option value="intent|This drives meticulous intent in following consistent, deep and deliberate practice protocols to develop the deep understanding of the scientific method, programming languages, algorithms, technologies, paradigms, concepts, tools and rigorous software engineering practices." />
+            <option value="of the intersection of|I seek with fervour to forge the mind of someone capable of operating on the bleeding edge of the intersection of Machine Learning, Data Science and Software Engineering to build burning desire to forge new and innovative technology." />
             <option value="|With this continously degree of organization and discipline, one research interest includes the work of Pieter Abbeel during his contributions to the 2017 seminal paper of Model-agnostic meta-learning for fast adaptation of deep networks." />
             <option value="yield|Placing myself in an environment to continually challenge and refine knowledge and improve ability to produce academic artifacts and build on undergraduate knowledge will yield the greatest opportunity for" />
+            <option value="masters programme,|It is my belief in through a rigorous masters programme, I will stretch to new heights further enthusing my passion for technology and science." />
             <option value="of the field of|My mission is to forge the prerequisite mind to produce original research and explore the adjacent possible of the field of AI." />
+            <option value="masters|I am intently interested in applying the knowledge acquired to date and through masters study to explore the adjacent possible scientific literature to research novel and apply existing mechanisms to expand the array of problems that intelligent systems are able to solve." />
+            <option value="exciting|The opportunity to formally train and build experience in this field of research given the current timeline of artificial intelligence is immensely exciting and gratifying." />
+            <option value="gratifying|The opportunity to formally train and build experience in this field of research given the current timeline of artificial intelligence is immensely gratifying." />
           </set>
         </option>
       </SuppressingContext>
